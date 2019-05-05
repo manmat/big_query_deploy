@@ -1,1 +1,1 @@
-query2
+select unique_key, location from bigquery_cicd.example
