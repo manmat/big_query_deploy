@@ -1,1 +1,1 @@
-select unique_key, status from `matyas-playground.bigquery_cicd.example` LIMIT 3400000
+select unique_key, status, location from `matyas-playground.bigquery_cicd.example` LIMIT 3400000
